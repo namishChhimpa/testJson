@@ -6,7 +6,7 @@
 	   "gender": "male",
 	   "age": 28,
 	   "address": {
-		   "streetAddress": "101",
+		   "streetAddress": 101,
 		   "city": "San Diego",
 		   "state": "CA"
 	   },
@@ -20,7 +20,7 @@
 	   "gender": "Female",
 	   "age": 34,
 	   "address": {
-		   "streetAddress": "567",
+		   "streetAddress": 567,
 		   "city": "cityX",
 		   "state": "StateYY"
 	   },
